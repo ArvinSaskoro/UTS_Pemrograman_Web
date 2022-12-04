@@ -1,0 +1,31 @@
+body {
+    background-image: url(image/bg_brown.jpg);
+    background-size: cover;
+}
+
+.container {
+    width: 50%;
+    margin-top: 12%;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.3);
+    padding: 40px;
+    background-color: white;
+    border-radius: 30px;
+}
+
+form {
+    border-radius: 40px;
+}
+
+.logo {
+   width: 40%;
+}
+
+h2 {
+    padding-bottom: 50px;
+    border-bottom: 2px solid black;
+}
+
+button {
+    inline-size: auto;
+    width: 40%;
+}
